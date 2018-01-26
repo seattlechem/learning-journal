@@ -1,0 +1,3 @@
+## Learning Journal Day 14
+
+Today we reviewed various css animation effects. Although we didn't go deeper into logic how all these cool animations work, we were able to grasp an idea what we can do with all these css animation features. During lab, we did a pair project by creating a shopping cart. I was able to figure out what's object oriented programming is all about slowly. The creation of shopping cart went rather smoothly, but we needed more time.
